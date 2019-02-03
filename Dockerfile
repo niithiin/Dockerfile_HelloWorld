@@ -1,2 +1,2 @@
-FROM centos
+FROM hello-world
 
